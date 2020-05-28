@@ -1,4 +1,4 @@
 # hello-world
-My first project with github hello world guide. This text is part of the description I wrote while creating the repository. Hopefully this is also a part of the README.
-
-I too come from earth 42
+Javascript editors
+p5 Editor: https://editor.p5js.org/DASHFORT/sketches
+code.org projects: https://studio.code.org/projects
